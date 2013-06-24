@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Tasksnap",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "In Google Calendar, default to 'Create task' when clicking the whole-day space.",
+    "description": "The description of the application"
+  },
+  "task": {
+	  "message": "Task",
+	  "description": "The name of the task label"
+  }
+}
