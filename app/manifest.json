@@ -13,7 +13,7 @@
 			"https://www.google.com/calendar/render*"
 		],
 		"js": [
-			"bower_components/jquery/jquery.js",
+			"components/jquery/jquery.js",
 			"scripts/tasksnap.js"
 		],
 		"run_at": "document_end",
